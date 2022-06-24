@@ -1,0 +1,9 @@
+[submodule "csiem-science"]
+	path = csiem-science
+	url = https://github.com/AquaticEcoDynamics/csiem-science.git
+[submodule "csiem-model"]
+	path = csiem-model
+	url = https://github.com/AquaticEcoDynamics/csiem-model.git
+[submodule "csiem-marvl"]
+	path = csiem-marvl
+	url = https://github.com/AquaticEcoDynamics/csiem-marvl.git
