@@ -1,7 +1,14 @@
+![image](admin/kwinana_banner.jpg)
+
+[![Project Status: Active – The project is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
+<br>
+
 # CSIEM : The Cockburn Sound Integrated Ecosystem Model
 
+This is the repository for relevant **data, models and documentation** for [Cockburn Sound](https://en.wikipedia.org/wiki/Cockburn_Sound), developed as part of the WAMSI-Westport Marine Science Program.
 
-This is the repository for relevant **data, models and documentation** for Cockburn Sound, developed as part of the WAMSI-Westport Marine Science Program.
+<br>
 
 ## Cloning the repo with all submodule code/files
 
@@ -24,3 +31,7 @@ If you want to create an archive of all the code (including the submodules), fir
 ## Additional information
 
 See repository Wiki for additional information on editing the repository and adding new content.
+
+
+
+![image](admin/wamsi_logo.png)
