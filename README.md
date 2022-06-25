@@ -6,7 +6,7 @@
 
 <br>
 
-This is the repository for relevant **data, models and documentation** for [Cockburn Sound](https://en.wikipedia.org/wiki/Cockburn_Sound), developed as part of the WAMSI-Westport Marine Science Program.
+This is the repository for relevant **data, models and documentation** for [Cockburn Sound](https://en.wikipedia.org/wiki/Cockburn_Sound), developed as part of the [WAMSI-Westport Marine Science Program](https://wamsi.org.au/research/programs/wamsi-westport-marine-science-program/).
 
 For an overview of the CSIEM model, refer to the [CSIEM Documentation](https://en.wikipedia.org/wiki/Cockburn_Sound).
 
