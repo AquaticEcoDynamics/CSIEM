@@ -7,3 +7,6 @@
 [submodule "csiem-marvl"]
 	path = csiem-marvl
 	url = https://github.com/AquaticEcoDynamics/csiem-marvl.git
+[submodule "csiem-data"]
+	path = csiem-data
+	url = https://github.com/AquaticEcoDynamics/csiem-data.git
